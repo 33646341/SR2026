@@ -1,0 +1,28 @@
+[project]
+name = "emdiffuse"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "h5py>=3.15.1",
+    "image-registration>=0.2.9",
+    "imagecodecs>=2026.1.1",
+    "imutils>=0.5.4",
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.8",
+    "modelscope>=1.33.0",
+    "numpy>=1.23.0",
+    "nvitop>=1.6.1",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.3.3",
+    "pytest>=9.0.2",
+    "scipy>=1.16.3",
+    "tensorboard>=2.20.0",
+    "tifffile>=2025.12.20",
+    "torch>=1.13.0",
+    "torchvision>=0.14.0",
+    "tqdm>=4.67.1",
+    "transformers>=4.57.3",
+    "warmup-scheduler>=0.3",
+]
